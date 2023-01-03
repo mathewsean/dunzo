@@ -1,0 +1,20 @@
+
+.partner:hover{
+  color: rgb(0,210,144);
+}
+
+.business:hover{
+  color: rgb(0,210,144);
+}
+
+.search:hover{
+  color: rgb(0,210,144);
+}
+
+.cart:hover{
+  color: rgb(0,210,144);
+}
+
+.footer:hover{
+  text-decoration-line: underline;
+}
